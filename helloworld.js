@@ -12,7 +12,7 @@ var onPageLoad = function() {
                 console.log(window.navigator.userAgent);
         });
 
-        page.render('example.png');
+        page.render('helloworld.png');
         phantom.exit();
     }, 30000);
 };

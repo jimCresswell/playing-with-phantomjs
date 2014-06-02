@@ -1,7 +1,7 @@
 # Project specific #
 ####################
 
-/shots
+node_modules
 
 # Compiled source #
 ###################
