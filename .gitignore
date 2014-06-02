@@ -1,6 +1,7 @@
 # Project specific #
 ####################
 
+*.png
 node_modules
 
 # Compiled source #
